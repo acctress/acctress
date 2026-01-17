@@ -33,11 +33,5 @@
 ###
 
 <div align="center">
-  ![spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31embistxkz32ktdqrwwtvx2fe3a&count={count})
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31embistxkz32ktdqrwwtvx2fe3a&count=5" alt="spotify recently played"/>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
