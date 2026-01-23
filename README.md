@@ -2,6 +2,8 @@
 
 <!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/111649405?v=4"  /> -->
 
+Interested in programming language development, compilers, graphics and all things C++, Rust, Haskell and Zig.
+
 ###
 
 <div align="left">
