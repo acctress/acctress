@@ -6,5 +6,4 @@ Interested in:
 * programming language development
 * compilers
 * graphics
-* all things C++, Rust, Haskell and Zig.
 
